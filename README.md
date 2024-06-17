@@ -6,5 +6,6 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ### Try it out
 
+- Demo: [next-js-dashboard-app-xi.vercel.app](https://next-js-dashboard-app-xi.vercel.app)
 - Email: user@nextmail.com
 - Password: 123456
